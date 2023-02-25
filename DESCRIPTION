@@ -1,0 +1,15 @@
+Package: corals
+Title: Large Scale Correlation Network Construction
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Martin",
+           family = "Becker",
+           role = c("aut", "cre"),
+           email = "mgbckr@stanford.edu",
+           comment = c(ORCID = "0000-0003-4296-3481"))
+Description: Large scale correlation network construction
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
